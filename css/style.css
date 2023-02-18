@@ -1,0 +1,17 @@
+body {
+  background-color: #f8d0a8;
+}
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+a {
+  color: #008001;
+  text-align: center;
+}
+img{
+    display: block;
+    text-align: center;
+}
